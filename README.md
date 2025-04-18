@@ -16,7 +16,7 @@ I've built and designed a custom portfolio to showcase my projects, experience, 
 - Interactive horizontal and vertical scroll-based UI
 - Mobile navigation with hamburger toggle
 
-🔗 [Visit the Portfolio Website](https://craiglawsonnn.github.io)
+🔗 [Visit the Portfolio Website]([https://craiglawsonnn.github.io/port/])
 
 ---
 
@@ -74,7 +74,7 @@ A stylish, informative website promoting upcoming and popular artists, complete 
 ## 🛠️ Skills & Certifications
 
 **Languages & Tools**  
-`Python`, `JavaScript`, `C#`, `React`, `Three.js`, `AWS`, `HTML/CSS`, `MySQL`, `Power BI`
+`Python`, `JavaScript`, `C#`, `React`, `Three.js`, `AWS`, `HTML/CSS`, `MySQL`, `Power BI`, `SQL`, `Azure`, `Cisco`
 
 **Core Skills**  
 - Problem Solving & Debugging  
@@ -100,7 +100,7 @@ A stylish, informative website promoting upcoming and popular artists, complete 
 
 - 📧 craig.lawson89@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/craig-law-son)  
-- 🌐 [Portfolio](https://craiglawsonnn.github.io)  
+- 🌐 [Portfolio](https://craiglawsonnn.github.io/port)  
 - 🐙 [GitHub](https://github.com/craiglawsonnn)
 
 ---
