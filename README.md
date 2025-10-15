@@ -17,7 +17,7 @@ A modern, mobile-first personal finance app that lets you track income/expenses,
 - Recharts for simple insights/graphs
 - Client-side routing via HashRouter (GitHub Pages compatible)
 
-🔗 Live demo: [Visit the Live Website]((https://craiglawsonnn.github.io/coin-collab-hub/#/))
+🔗 Live demo: [Visit the Live Website](https://craiglawsonnn.github.io/coin-collab-hub/#/)
 
 ---
 
