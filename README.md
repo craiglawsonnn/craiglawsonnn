@@ -2,7 +2,22 @@
 
 ## 💻 Software Developer | Cybersecurity Enthusiast | Problem Solver
 
-I'm a recent graduate with a **BSc in Computing (Level 8)** from **Atlantic Technological University**, Sligo, Ireland. I have a passion for software development, cybersecurity, and turning real-world problems into technical solutions. With experience in IT support, customer service, and team management, I bring a practical, user-focused mindset to every project I take on.
+Creative and tech-savvy IT Systems Support Engineer with a BSc in Computer Science and hands-on experience in IT support, customer service, and frontend development. Skilled in building interactive UIs using React and Three.js, developing image segmentation systems, and supporting end users in both healthcare and telecom sectors. Passionate about web-based applications, game UI/UX, and continuous upskilling in cloud and cybersecurity.
+
+---
+
+## 💰 CoinCollab — Budget Tracker (React + Supabase)
+
+A modern, mobile-first personal finance app that lets you track income/expenses, filter and search transactions, and visualize trends — all backed by Supabase (auth, Postgres, RLS). Deployed as a static site on GitHub Pages.
+
+- Fast SPA built with Vite + React + TypeScript
+- Supabase for auth & database (Postgres + Row Level Security)
+- Shadcn/UI + Tailwind for a clean, dark-mode friendly UI
+- TanStack Query for data fetching/caching
+- Recharts for simple insights/graphs
+- Client-side routing via HashRouter (GitHub Pages compatible)
+
+🔗 Live demo: [Visit the Live Website]([(https://craiglawsonnn.github.io/coin-collab-hub/#/)])
 
 ---
 
@@ -51,20 +66,38 @@ A stylish, informative website promoting upcoming and popular artists, complete 
 
 ## 💼 Experience
 
+### **IT Systems Support Engineer**  
+**Captured Carbon** | Malahide, Dublin, Ireland | *September 2025 – Present*  
+- Provided hands-on IT support, including setup, configuration, and troubleshooting of employee workstations, laptops, and physical devices.
+- Managed and supported remote connectivity through AWS, RDP, and virtual machines, ensuring secure and efficient access for global teams.
+- Automated routine administrative tasks using PowerShell, including generating Excel reports and streamlining system processes.
+- Contributed to frontend development and ongoing maintenance, monitoring, and backups of the company website.
+- Collaborated closely with the trading teams, delivering tailored IT solutions to support business-critical operations.
+- Assisted in developing and maintaining Django-based projects, contributing to functionality improvements and technical stability.
+- Implemented IT best practices, documentation, and preventative measures to minimize downtime and improve system reliability.
+
+### **Process Executive CSR**  
+**InfoSys BPM** | Waterford, Ireland | *November 2024 – August 2025*  
+- Microsoft 365 
+- Process Optimization | Root Cause Analysis
+- Remote Collaboration | Agile Communication
+- GDPR Compliance | Data Handling
+- Technical Support | Troubleshooting
+  
 ### **Hardware Support Specialist**  
-**Clanwilliam Health** | Sligo, Ireland | *May 2021 – Present*  
+**Clanwilliam Health** | Sligo, Ireland | *April 2023 – September 2023*  
 - Supported software including HPM, Socrates, HealthOne, and Microsoft Suite  
 - Performed MySQL database backups and migrations  
 - Resolved customer issues involving hardware and software across clinics
 
 ### **Retail Assistant & Manager**  
-**Original Fudge Kitchen** | Cape May, NJ, USA  
+**Original Fudge Kitchen** | Cape May, NJ, USA  | *June 2024 – September 2024*
 - Managed team operations and ensured customer satisfaction  
 - Tracked and managed inventory levels  
 - Provided direct customer support in a busy tourist retail environment
 
 ### **Retail Assistant & Manager**  
-**Cape May Trading Post** | Cape May, NJ, USA  
+**Cape May Trading Post** | Cape May, NJ, USA | *June 2024 – September 2024* 
 - Supervised staff, maintained store cleanliness, and oversaw stock management  
 - Acted as onsite IT and assisted with deliveries  
 - Operated a barista station and POS systems
@@ -74,7 +107,7 @@ A stylish, informative website promoting upcoming and popular artists, complete 
 ## 🛠️ Skills & Certifications
 
 **Languages & Tools**  
-`Python`, `JavaScript`, `C#`, `React`, `Three.js`, `AWS`, `HTML/CSS`, `MySQL`, `Power BI`, `SQL`, `Azure`, `Cisco`
+`Python`, `JavaScript`, `C#`, `React`, `Three.js`, `AWS`, `HTML/CSS`, `MySQL`, `Power BI`, `SQL`, `Azure`, `Cisco`, `Django`,`MongoDB`
 
 **Core Skills**  
 - Problem Solving & Debugging  
@@ -93,6 +126,10 @@ A stylish, informative website promoting upcoming and popular artists, complete 
 **Atlantic Technological University, Sligo**  
 📍 *BSc in Computing (Level 8)*  
 🗓️ *2020 – 2024*
+
+**Atlantic Technological University, Donegal**  
+📍 *Postgraduate in Computing (Level 8)*  
+🗓️ *2025 – 2026(Expected)*
 
 ---
 
